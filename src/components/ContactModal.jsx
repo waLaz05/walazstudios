@@ -90,7 +90,7 @@ export const ContactModal = ({ isOpen, onClose }) => {
                             animate="visible"
                             transition={{ staggerChildren: 0.1, delayChildren: 0.2 }}
                         >
-                            <ContactLink icon={<Mail size={20} />} text="walaz05@gmail.com" color="#ec4899" href="mailto:walaz05@gmail.com" />
+                            <ContactLink icon={<Mail size={20} />} text="josephivan050505@gmail.com" color="#ec4899" href="mailto:josephivan050505@gmail.com" />
                             <ContactLink icon={<Github size={20} />} text="github.com/waLaz05" color="#fff" href="https://github.com/waLaz05" />
                             <ContactLink icon={<Linkedin size={20} />} text="LinkedIn Profile" color="#3b82f6" href="#" />
                             <ContactLink icon={<MessageCircle size={20} />} text="+51 966 552 520" color="#10b981" href="https://wa.me/51966552520" />
